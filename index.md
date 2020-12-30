@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Math 414/514, Spring 2021
+title: Math 414-514, Spring 2021
 coursename: Real Analysis
 featureimage: 
 featureimage-alt:
