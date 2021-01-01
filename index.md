@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Math 414-514, Spring 2021
-coursename: Real Analysis
+coursename: "Real Analysis"
 featureimage: 
 featureimage-alt:
 ---
@@ -15,3 +15,11 @@ the Baire property, and advanced topology of Euclidean space.
 
 
 ### [Syllabus](syllabus)
+
+### [Calendar](calendar)
+
+### [Assignments](assignments)
+
+### [Exams](exams)
+
+### [Additional Resources](resources)

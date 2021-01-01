@@ -22,12 +22,12 @@ kramdown:
 # A list of the pages to display in the navigation bar
 header_pages:
   - syllabus.md
-  - calendar.md
-  - lessons.md
-  - quizzesexams.md
+  - assignments.md
 
 collections:
-  quizzes:
+  hw:
+    output: true
+  papers:
     output: true
 
 # Exclude from processing.
