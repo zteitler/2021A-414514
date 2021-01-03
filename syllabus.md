@@ -202,6 +202,19 @@ saved to PDF, and included in your document with commands like `\includegraphics
 It's also fine to include hand-drawn figures that you scanned or photoed.
 
 
+### Attendance
+
+Class attendance will be optional, not required, and not graded.
+On the other hand it is *highly recommended*.
+Attending class has many benefits such as:
+
++ Opportunities to ask questions and get immediate feedback (and then, ask followup questions)
+
++ Establish relationships with other students and with the instructor
+  (might be helpful in case you decide to look for a study group,
+  or research opportunities or a letter of recommendation)
+
+
 
 ## Help
 
