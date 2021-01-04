@@ -204,7 +204,8 @@ It's also fine to include hand-drawn figures that you scanned or photoed.
 
 ### Attendance
 
-Class attendance will be optional, not required, and not graded.
+Class attendance is required during the first week of the semester.
+After the first week, class attendance will be optional, not required, and not graded.
 On the other hand it is *highly recommended*.
 Attending class has many benefits such as:
 
