@@ -57,6 +57,7 @@ You are encouraged to work together on the homework!
     Enter this LaTeX code into your tex file, and answer it:
     
     ```
+    \newpage
     \begin{exer}
     Suppose $S \subset \mathbb{R}$, $f : S \to \mathbb{R}$ is a function,
     $c$ is a cluster point of $S$, and $L \in \mathbb{R}$.
