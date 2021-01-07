@@ -61,7 +61,8 @@ You are encouraged to work together on the homework!
     \begin{exer}
     Suppose $S \subset \mathbb{R}$, $f : S \to \mathbb{R}$ is a function,
     $c$ is a cluster point of $S$, and $L \in \mathbb{R}$.
-    What is the definition of $\lim_{x \to c} f(x) = L$, using $\epsilon$ and $\delta$?
+    What is the definition of $\lim_{x \to c} f(x) = L$,
+    using $\epsilon$ and $\delta$?
     (Hint: See Definition 3.1.3 of the Lebl book.)
     \end{exer}
     \begin{answer}
@@ -112,7 +113,8 @@ You are encouraged to work together on the homework!
     \begin{exer}
     \begin{enumerate}
     \item What name do you like to go by in class?
-    \item What pronouns do you prefer (this could be she/her/hers, he/him/his, they/them/theirs, or other)?
+    \item What pronouns do you prefer (this could be she/her/hers, he/him/his,
+      they/them/theirs, or other)?
     \item What is something that you are excited to learn in this class?
     \item What is something that you are concerned about in this class?
     \item Is there anything else you would like me to know?
