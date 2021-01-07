@@ -10,6 +10,10 @@ layout: page
      alt="{{page.featureimage-alt}}"
      title="{{page.featureimage-alt}}"
      align="right" />
+{%- if page.featureimage-attrib -%}
+<div style="clear:both"></div>
+<div align="right" style="color:gray; font-size:small; font">{{page.featureimage-attrib}}</div>
+{%- endif -%}
 </div>
 {%- endif -%}
 
