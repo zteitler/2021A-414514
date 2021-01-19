@@ -5,13 +5,14 @@ title: Calendar
 
 ## Calendar
 
-| Date | Topic | Section | Notes |
-| :--- | :--- | :--- | :--- |
+| Date | Topic | Section |
+| :--- | :--- | :--- |
 | Tuesday, January 12 | First day of class. Properties of continuous functions on intervals. |  |
 | | [Note January 12, 2021.pdf](https://drive.google.com/file/d/1410iFs9I5Pr5CKTy7R1Pr0QZOPVL3s6O/view?usp=sharing) | |
 | Thursday, January 14 | Properties of continuous functions on intervals. Derivatives. |  |
 | | [Note January 14, 2021.pdf](https://drive.google.com/file/d/1tDFMOr7RvtBHilOyWxJtTcVv2QWp8K7a/view?usp=sharing) | |
-| Tuesday, January 19 | TBA | |
+| Tuesday, January 19 | Mean Value Theorem. Intermediate Value property of derivatives. Inverse function theorem. | |
+| | [Note January 19, 2021.pdf](https://drive.google.com/file/d/1px7oNNiTcoo5t5929KonxtjlDXNDpI2e/view?usp=sharing) | |
 | Thursday, January 21 | TBA | |
 | Tuesday, January 26 | TBA |
 | Thursday, January 28 | TBA |
