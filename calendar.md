@@ -13,8 +13,9 @@ title: Calendar
 | | [Note January 14, 2021.pdf](https://drive.google.com/file/d/1tDFMOr7RvtBHilOyWxJtTcVv2QWp8K7a/view?usp=sharing) | |
 | Tuesday, January 19 | Mean Value Theorem. Intermediate Value property of derivatives. Inverse function theorem. | |
 | | [Note January 19, 2021.pdf](https://drive.google.com/file/d/1px7oNNiTcoo5t5929KonxtjlDXNDpI2e/view?usp=sharing) | |
-| Thursday, January 21 | TBA | |
-| Tuesday, January 26 | TBA |
+| Thursday, January 21 | Inverse function theorem. Implicit function theorem (discussion, not proof). | |
+| | [Note January 21, 2021.pdf](https://drive.google.com/file/d/1q-fRyq1k-oJOBZ84HILjFjSs-0deetuT/view?usp=sharing) | |
+| Tuesday, January 26 | Riemann Integral | 5.1-2 |
 | Thursday, January 28 | TBA |
 | Tuesday, February 2 | TBA |
 | Thursday, February 4 | TBA |
