@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title: Homework 1
-duedate: 2021-01-25
+duedate: 2021-01-27
 mathjax: true
 ---
 
@@ -64,3 +64,6 @@ You are encouraged to work together on the homework!
   But, warning, it's pretty long, 17 pages. You might want to read a little bit at a time.
 
 
+## Extension
+
+Due date extended from Monday, January 25 to Wednesday, January 27.
