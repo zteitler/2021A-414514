@@ -16,8 +16,8 @@ title: Calendar
 | Thursday, January 21 | Inverse function theorem. Implicit function theorem (discussion, not proof). | |
 | | [Note January 21, 2021.pdf](https://drive.google.com/file/d/1q-fRyq1k-oJOBZ84HILjFjSs-0deetuT/view?usp=sharing) | |
 | Tuesday, January 26 | Riemann Integral | 5.1-2 |
-| Thursday, January 28 | TBA |
-| Tuesday, February 2 | TBA |
+| Thursday, January 28 | Riemann Integral: Properties. Fundamental Theorem of Calculus |
+| Tuesday, February 2 | Riemann integrable functions. Riemann-Lebesgue theorem |
 | Thursday, February 4 | TBA |
 | Tuesday, February 9 | TBA |
 | Thursday, February 11 | TBA |
