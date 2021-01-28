@@ -17,9 +17,10 @@ title: Calendar
 | | [Note January 21, 2021.pdf](https://drive.google.com/file/d/1q-fRyq1k-oJOBZ84HILjFjSs-0deetuT/view?usp=sharing) | |
 | Tuesday, January 26 | Riemann Integral | 5.1-2 |
 | | [Note January 26, 2021.pdf](https://drive.google.com/file/d/1ZEje3PK9W1VKe53qC_mALwggeeWWRJJM/view?usp=sharing) | |
-| Thursday, January 28 | Riemann Integral: Properties. Fundamental Theorem of Calculus |
-| Tuesday, February 2 | Riemann integrable functions. Riemann-Lebesgue theorem |
-| Thursday, February 4 | TBA |
+| Thursday, January 28 | Riemann Integral: Properties. Integrability of continuous functions. |
+| | [Note January 28, 2021.pdf](https://drive.google.com/file/d/1q409cCyUCiaFdqRsh7Zc60K7Gk5GMRGO/view?usp=sharing) | |
+| Tuesday, February 2 | Integrability of piecewise continuous functions. Fundamental Theorem of Calculus |
+| Thursday, February 4 | Riemann-Lebesgue theorem |
 | Tuesday, February 9 | TBA |
 | Thursday, February 11 | TBA |
 | Tuesday, February 16 | TBA | |
