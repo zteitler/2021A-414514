@@ -20,6 +20,7 @@ title: Calendar
 | Thursday, January 28 | Riemann Integral: Properties. Integrability of continuous functions. |
 | | [Note January 28, 2021.pdf](https://drive.google.com/file/d/1q409cCyUCiaFdqRsh7Zc60K7Gk5GMRGO/view?usp=sharing) | |
 | Tuesday, February 2 | Integrability of piecewise continuous functions. Fundamental Theorem of Calculus |
+| | [Note February 2, 2021.pdf](https://drive.google.com/file/d/1q4JYLSBvJRXwWSSkNgU4Er1CEOC_O_sn/view?usp=sharing) | |
 | Thursday, February 4 | Riemann-Lebesgue theorem |
 | Tuesday, February 9 | TBA |
 | Thursday, February 11 | TBA |
