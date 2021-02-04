@@ -15,6 +15,17 @@ title: Additional Resources
 3.  [*Introduction to Real Analysis*](https://digitalcommons.trinity.edu/mono/7/) by William F. Trench
 
 
+### Accessing MathSciNet and Journals via Library Proxy
+
+1.  [Original link to MathSciNet](https://mathscinet.ams.org), accessible from campus networks and VPN
+
+2.  [Library proxy link to MathSciNet](https://libproxy.boisestate.edu/login?url=http://mathscinet.ams.org)
+
+3.  Library proxies in general: add `https://libproxy.boisestate.edu/login?url=` in front
+    of the URL you want to visit.
+    See [Boise State EZProxy "proxy bookmarklet" on Paperpile](https://paperpile.com/p/proxy-boisestate/).
+
+
 
 ### Videos
 
