@@ -15,7 +15,7 @@ title: Calendar
 | Thursday, January 28 | Riemann Integral: Properties. Integrability of continuous functions. | [Jan 28](https://drive.google.com/file/d/1q409cCyUCiaFdqRsh7Zc60K7Gk5GMRGO/view?usp=sharing) |
 | Tuesday, February 2 | Integrability of piecewise continuous functions. Fundamental Theorem of Calculus | [Feb 2](https://drive.google.com/file/d/1q4JYLSBvJRXwWSSkNgU4Er1CEOC_O_sn/view?usp=sharing) |
 | Thursday, February 4 | Riemann-Lebesgue theorem | [Feb 4](https://drive.google.com/file/d/1q4xvoUxjXCG01OAlqa9DwDI1idLjC_Bz/view?usp=sharing) |
-| Tuesday, February 9 | Oscillation of a function. Proof of Riemann-Lebesgue | |
+| Tuesday, February 9 | Oscillation of a function. Proof of Riemann-Lebesgue | [Feb 9](https://drive.google.com/file/d/1qBuU22VNvhg2JxgA1fJ3PgFbU-LcswEr/view?usp=sharing) |
 | Thursday, February 11 | Conclusion of proof. Beyond Riemann integration | |
 | Tuesday, February 16 | Sequences and series of functions | |
 | Thursday, February 18 | TBA |
