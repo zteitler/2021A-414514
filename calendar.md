@@ -17,8 +17,8 @@ title: Calendar
 | Thursday, February 4 | Riemann-Lebesgue theorem | [Feb 4](https://drive.google.com/file/d/1q4xvoUxjXCG01OAlqa9DwDI1idLjC_Bz/view?usp=sharing) |
 | Tuesday, February 9 | Oscillation of a function. Proof of Riemann-Lebesgue | [Feb 9](https://drive.google.com/file/d/1qBuU22VNvhg2JxgA1fJ3PgFbU-LcswEr/view?usp=sharing) |
 | Thursday, February 11 | Conclusion of proof. Beyond Riemann integration | [Feb 11](https://drive.google.com/file/d/1qRA5mEUkZEhPSlfWw667XERzzAq4YBNZ/view?usp=sharing) |
-| Tuesday, February 16 | Sequences and series of functions | |
-| Thursday, February 18 | TBA |
+| Tuesday, February 16 | Conclusion of proof. Beyond Riemann integration | [Feb 16](https://drive.google.com/file/d/1qSOLy-tIQGDHvqWxhhrIMk_Tonkp10oa/view?usp=sharing) |
+| Thursday, February 18 | Sequences and series of functions |
 | Tuesday, February 23 | TBA |
 | Thursday, February 25 | TBA |
 | Tuesday, March 2 | TBA |
