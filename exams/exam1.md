@@ -79,7 +79,7 @@ please let me know in advance.
     \\[ F(x) = \int_a^x f(t) dt . \\]
     If $$x$$ is a point at which $$f$$ is not continuous is it still possible that $$F'(x)=f(x)$$?
     Is it possible that $$F'(x)$$ exists but is not equal to $$f(x)$$?
-    Is it possible that $$F'(x) fails to exist?
+    Is it possible that $$F'(x)$$ fails to exist?
     
     (To show that something is possible, illustrate with an example.
     To show that something is not possible, give a proof.)
