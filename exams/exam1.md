@@ -108,7 +108,10 @@ of delay or technical difficulties.
 
 Available meeting times are:
 
-TBA
+| Monday, March 1 | 12:00-2:00 |
+| Wednesday, March 3 | 3:30-4:30 |
+| Thursday, March 4 | 12:00-3:00 |
+| Friday, March 5 | 10:00-12:30 |
 
 Please schedule your meeting with me at least 48 hours in advance.
 If other days or times are needed, please let me know.
