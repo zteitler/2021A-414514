@@ -117,6 +117,9 @@ Please schedule your meeting with me at least 48 hours in advance.
 If other days or times are needed, please let me know.
 I will work with you to find a day and time that we can meet.
 
+(Meeting times during Week 9, March 8-12, can be scheduled if needed,
+but please try to schedule during Week 8 if possible.)
+
 
 ## Time limit
 
