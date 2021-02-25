@@ -20,7 +20,7 @@ title: Calendar
 | Tuesday, February 16 | Conclusion of proof. Beyond Riemann integration. | | [Feb 16](https://drive.google.com/file/d/1qSOLy-tIQGDHvqWxhhrIMk_Tonkp10oa/view?usp=sharing) |
 | Thursday, February 18 | Sequences and series of functions. Uniform convergence and continuity. | 6.1-2 | [Feb 18](https://drive.google.com/file/d/1q_2huzHOalO9uE11CkwXN7_BaBNM_A96/view?usp=sharing) |
 | Tuesday, February 23 | Uniform convergence: integrals and derivatives. | 6.2 | [Feb 23](https://drive.google.com/file/d/1qd0ON5KK83eXdCTMSiaMnidDuLpw44KP/view?usp=sharing) |
-| Thursday, February 25 | Power series. | 2.6.5, 6.2 |
+| Thursday, February 25 | Power series. | 2.6.5, 6.2 | [Feb 25](https://drive.google.com/file/d/1qhOSFnlBEj59zkIzXpJsF7ZWjTFSKT2B/view?usp=sharing) |
 | Tuesday, March 2 | Taylor and Fourier series. | TBB 10.5, 10.8 |
 | Thursday, March 4 | Picard's Theorem. | 6.3 |
 | Tuesday, March 9 | TBA |
