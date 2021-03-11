@@ -23,7 +23,7 @@ title: Calendar
 | Thursday, February 25 | Power series. | 2.6.5, 6.2 | [Feb 25](https://drive.google.com/file/d/1qhOSFnlBEj59zkIzXpJsF7ZWjTFSKT2B/view?usp=sharing) |
 | Tuesday, March 2 | Power and Taylor series. | TBB 10.5 | [Mar 2](https://drive.google.com/file/d/1r9qMfq1JRSipFOD8ULI4g6Nho_-nbxbL/view?usp=sharing) |
 | Thursday, March 4 | Taylor and Fourier series. | TBB 10.8 | [Mar 4](https://drive.google.com/file/d/1rJ1FTPvW1JJr_49rM7YYKMCTqLRmzABF/view?usp=sharing) |
-| Tuesday, March 9 | Picard's Theorem. | 6.3 |
+| Tuesday, March 9 | Picard's Theorem. | 6.3 | [Mar 11](https://drive.google.com/file/d/1-EvLVDKrufJgom2iEToV4rDwEjLobMOi/view?usp=sharing) |
 | Thursday, March 11 | Picard's Theorem | |
 | Tuesday, March 16 | Metric spaces | 7.1 |
 | Thursday, March 18 | TBA |
