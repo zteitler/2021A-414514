@@ -27,7 +27,7 @@ title: Calendar
 | Thursday, March 11 | Trigonometric and Fourier series | | [Mar 11](https://drive.google.com/file/d/1-EvLVDKrufJgom2iEToV4rDwEjLobMOi/view?usp=sharing) |
 | Tuesday, March 16 | Picard's theorem | 6.3 | [Mar 16](https://drive.google.com/file/d/1-K6UJtKSJjAWhTF49PxmsyS3dB2a4-Ae/view?usp=sharing) |
 | Thursday, March 18 | Picard's theorem | | [Mar 18](https://drive.google.com/file/d/1-RooqSyZ1SbDT_T0PhlwnZsD-1NcdD0o/view?usp=sharing) |
-| Tuesday, March 23 | Metric spaces. | 7.1 |
+| Tuesday, March 23 | Metric spaces. | 7.1 | [Mar 23](https://drive.google.com/file/d/1-kPkSHwL1fOa7sB2IL8GNLaGaUPuetBL/view?usp=sharing) |
 | Thursday, March 25 | Completeness and compactness. Metric spaces of functions. | 7.4-5 |
 | Tuesday, March 23 | TBA |
 | Thursday, March 25 | TBA |
