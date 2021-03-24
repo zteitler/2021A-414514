@@ -1,9 +1,11 @@
 ---
 layout: assignment
 title: Homework 6
-duedate: 2021-03-24
+duedate: 2021-03-28
 mathjax: true
 ---
+
+*Note: Due date extended to Sunday, March 28 (instead of Wednesday, March 24)*
 
 These exercises are on sequences and series of functions.
 
