@@ -29,8 +29,8 @@ title: Calendar
 | Thursday, March 18 | Picard's theorem | | [Mar 18](https://drive.google.com/file/d/1-RooqSyZ1SbDT_T0PhlwnZsD-1NcdD0o/view?usp=sharing) |
 | Tuesday, March 23 | Metric spaces. | 7.1 | [Mar 23](https://drive.google.com/file/d/1-kPkSHwL1fOa7sB2IL8GNLaGaUPuetBL/view?usp=sharing) |
 | Thursday, March 25 | Metric spaces of functions. Topology. | 7.1-2 | [Mar 25](https://drive.google.com/file/d/1-niGTJxlhR1yrwYkTWQeVMkqoGAGmQpn/view?usp=sharing) |
-| Tuesday, March 30 | Completeness and compactness. Continuous functions. | 7.3-7.5 | |
-| Thursday, April 1 | TBA |
+| Tuesday, March 30 | Completeness and compactness. Continuous functions. | 7.3-7.5 | [Mar 30](https://drive.google.com/file/d/1-wFg9xNjJ44k6xQYkicyFuJCjBlZ9VRe/view?usp=sharing) |
+| Thursday, April 1 | Compactness. Continuous functions. |
 | Tuesday, April 6 | TBA |
 | Thursday, April 8 | TBA |
 | Tuesday, April 13 | No meeting (Spring Break) |
