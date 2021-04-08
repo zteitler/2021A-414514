@@ -32,7 +32,7 @@ title: Calendar
 | Tuesday, March 30 | Completeness and compactness. Continuous functions. | 7.3-7.5 | [Mar 30](https://drive.google.com/file/d/1-wFg9xNjJ44k6xQYkicyFuJCjBlZ9VRe/view?usp=sharing) |
 | Thursday, April 1 | Compactness. Continuous functions. | | [Apr 1](https://drive.google.com/file/d/101m2ae86aD7jNO6_1kapDaEL5MYH2ZT7/view?usp=sharing) |
 | Tuesday, April 6 | Compactness. Continuous functions. Contraction mappings. | | [Apr 6](https://drive.google.com/file/d/104hV963JVDf5HPh9rJL-8mJIWlb4_-rc/view?usp=sharing) |
-| Thursday, April 8 | Continuous functions. Contraction mappings. | |
+| Thursday, April 8 | Continuous functions. Contraction mappings. | | [Apr 8](https://drive.google.com/file/d/107Cd_0C6uOwB10YPJWtEIUEhUB8LptpO/view?usp=sharing) |
 | Tuesday, April 13 | No meeting (Spring Break) |
 | Thursday, April 15 | No meeting (Spring Break) |
 | Tuesday, April 20 | TBA |
