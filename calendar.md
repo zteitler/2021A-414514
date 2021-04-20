@@ -35,7 +35,7 @@ title: Calendar
 | Thursday, April 8 | Continuous functions. Contraction mappings. | | [Apr 8](https://drive.google.com/file/d/107Cd_0C6uOwB10YPJWtEIUEhUB8LptpO/view?usp=sharing) |
 | Tuesday, April 13 | No meeting (Spring Break) |
 | Thursday, April 15 | No meeting (Spring Break) |
-| Tuesday, April 20 | TBA |
+| Tuesday, April 20 | Differentiation under the integral sign | | [Apr 20](https://drive.google.com/file/d/10M0JPp8WEubKXSiMOa9u6EDd7_jqKU_y/view?usp=sharing) |
 | Thursday, April 22 | TBA |
 | Tuesday, April 27 | TBA |
 |  | Final exam |
