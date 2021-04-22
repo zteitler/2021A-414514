@@ -35,9 +35,10 @@ title: Calendar
 | Thursday, April 8 | Continuous functions. Contraction mappings. | | [Apr 8](https://drive.google.com/file/d/107Cd_0C6uOwB10YPJWtEIUEhUB8LptpO/view?usp=sharing) |
 | Tuesday, April 13 | No meeting (Spring Break) |
 | Thursday, April 15 | No meeting (Spring Break) |
-| Tuesday, April 20 | Differentiation under the integral sign | | [Apr 20](https://drive.google.com/file/d/10M0JPp8WEubKXSiMOa9u6EDd7_jqKU_y/view?usp=sharing) |
-| Thursday, April 22 | TBA |
-| Tuesday, April 27 | TBA |
+| Tuesday, April 20 | Differentiation under the integral sign | [K. Conrad blurb](https://kconrad.math.uconn.edu/blurbs/analysis/diffunderint.pdf) | [Apr 20](https://drive.google.com/file/d/10M0JPp8WEubKXSiMOa9u6EDd7_jqKU_y/view?usp=sharing) |
+| Thursday, April 22 | Differentiation under the integral sign | | [Apr 22](https://drive.google.com/file/d/10NhHJydxLxGdgJquLJnb_OcWHTW8fKbG/view?usp=sharing) |
+| Tuesday, April 27 | Fundamental Theorem of Algebra |
+| Thursday, April 29 | TBA |
 |  | Final exam |
 
 Section numbers are for Lebl, except if noted TBB for Thomson-Bruckner-Bruckner.
