@@ -37,8 +37,8 @@ title: Calendar
 | Thursday, April 15 | No meeting (Spring Break) |
 | Tuesday, April 20 | Differentiation under the integral sign | [K. Conrad blurb](https://kconrad.math.uconn.edu/blurbs/analysis/diffunderint.pdf) | [Apr 20](https://drive.google.com/file/d/10M0JPp8WEubKXSiMOa9u6EDd7_jqKU_y/view?usp=sharing) |
 | Thursday, April 22 | Differentiation under the integral sign | | [Apr 22](https://drive.google.com/file/d/10NhHJydxLxGdgJquLJnb_OcWHTW8fKbG/view?usp=sharing) |
-| Tuesday, April 27 | Fundamental Theorem of Algebra |
-| Thursday, April 29 | TBA |
+| Tuesday, April 27 | Differentiation under integra, non-compact domains | | [Apr 27](https://drive.google.com/file/d/10j2Qe7F3xu-emePwFuEYiItUjjs9AxP4/view?usp=sharing) |
+| Thursday, April 29 | Fundamental Theorem of Algebra. Final exam study | | |
 |  | Final exam |
 
 Section numbers are for Lebl, except if noted TBB for Thomson-Bruckner-Bruckner.
