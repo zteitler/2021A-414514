@@ -134,7 +134,14 @@ of delay or technical difficulties.
 
 Available meeting times are:
 
-TBA
+| Monday, May 3 | 11:00am-2:00pm |
+| Tuesday, May 4 | 2:00pm-4:00pm |
+| Wednesday, May 5 | 3:00pm-5:00pm |
+| Thursday, May 6 | 9:30am-11:30am |
+| Thursday, May 6 | 1:00pm-4:00pm |
+| Friday, May 7 | 1:00pm-4:00pm |
+
+If other days/times are needed, please contact me.
 
 
 ## Time limit
